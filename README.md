@@ -3,12 +3,15 @@ This project addresses the critical issue of narcotic drug abuse among youth, pa
 
 [Presentation Link]()
 
-##Model
+
+## Model
 [Google Collab Code](https://colab.research.google.com/drive/1N75jCjqcHySc4USn_cKXBVIG_ghnTYhX?usp=sharing)
 
-##UI Design
+
+## UI Design
 [UI Code]()
 
-##Dataset
+
+## Dataset
 [Dataset]()
 
