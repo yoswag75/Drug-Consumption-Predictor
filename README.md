@@ -7,11 +7,13 @@ This project addresses the critical issue of narcotic drug abuse among youth, pa
 
 ## Model
 [Google Collab Code](https://colab.research.google.com/drive/1N75jCjqcHySc4USn_cKXBVIG_ghnTYhX?usp=sharing)
-
+<br>
+<br>
 
 ## UI Design
 [UI Code](Drug_Predictor.py)
-
+<br>
+<br>
 
 ## Dataset
 [Dataset](Drug_Predictor.csv)
